@@ -1,0 +1,2198 @@
+,Country,suicides,year
+0,Iceland,32,1985
+1,Iceland,37,1986
+2,Iceland,36,1987
+3,Iceland,35,1988
+4,Iceland,22,1989
+5,Iceland,40,1990
+6,Iceland,37,1991
+7,Iceland,28,1992
+8,Iceland,26,1993
+9,Iceland,25,1994
+10,Iceland,27,1995
+11,Iceland,33,1996
+12,Iceland,33,1997
+13,Iceland,30,1998
+14,Iceland,31,1999
+15,Iceland,50,2000
+16,Iceland,36,2001
+17,Iceland,30,2002
+18,Iceland,26,2003
+19,Iceland,35,2004
+20,Iceland,33,2005
+21,Iceland,32,2006
+22,Iceland,37,2007
+23,Iceland,38,2008
+24,Iceland,36,2009
+25,Iceland,46,2010
+26,Iceland,27,2011
+27,Iceland,37,2012
+28,Iceland,49,2013
+29,Iceland,44,2014
+30,Iceland,40,2015
+31,Iceland,40,2016
+0,Austria,2091,1985
+1,Austria,2139,1986
+2,Austria,2069,1987
+3,Austria,1851,1988
+4,Austria,1898,1989
+5,Austria,1825,1990
+6,Austria,1769,1991
+7,Austria,1759,1992
+8,Austria,1704,1993
+9,Austria,1776,1994
+10,Austria,1788,1995
+11,Austria,1779,1996
+12,Austria,1592,1997
+13,Austria,1559,1998
+14,Austria,1555,1999
+15,Austria,1588,2000
+16,Austria,1489,2001
+17,Austria,1553,2002
+18,Austria,1456,2003
+19,Austria,1422,2004
+20,Austria,1399,2005
+21,Austria,1297,2006
+22,Austria,1285,2007
+23,Austria,1267,2008
+24,Austria,1278,2009
+25,Austria,1264,2010
+26,Austria,1288,2011
+27,Austria,1276,2012
+28,Austria,1291,2013
+29,Austria,1314,2014
+30,Austria,1251,2015
+31,Austria,1201,2016
+0,Mauritius,104,1985
+1,Mauritius,28,1986
+2,Mauritius,140,1987
+3,Mauritius,167,1988
+4,Mauritius,144,1989
+5,Mauritius,147,1990
+6,Mauritius,137,1991
+7,Mauritius,146,1992
+8,Mauritius,138,1993
+9,Mauritius,129,1994
+10,Mauritius,147,1995
+11,Mauritius,153,1996
+12,Mauritius,122,1997
+13,Mauritius,155,1998
+14,Mauritius,174,1999
+15,Mauritius,137,2000
+16,Mauritius,113,2001
+17,Mauritius,131,2002
+18,Mauritius,88,2003
+19,Mauritius,97,2004
+20,Mauritius,102,2005
+21,Mauritius,118,2006
+22,Mauritius,127,2007
+23,Mauritius,84,2008
+24,Mauritius,115,2009
+25,Mauritius,98,2010
+26,Mauritius,118,2011
+27,Mauritius,115,2012
+28,Mauritius,98,2013
+29,Mauritius,120,2014
+30,Mauritius,104,2015
+31,Mauritius,98,2016
+0,Netherlands,1638,1985
+1,Netherlands,1604,1986
+2,Netherlands,1616,1987
+3,Netherlands,1523,1988
+4,Netherlands,1520,1989
+5,Netherlands,1450,1990
+6,Netherlands,1611,1991
+7,Netherlands,1587,1992
+8,Netherlands,1555,1993
+9,Netherlands,1584,1994
+10,Netherlands,1511,1995
+11,Netherlands,1577,1996
+12,Netherlands,1572,1997
+13,Netherlands,1519,1998
+14,Netherlands,1519,1999
+15,Netherlands,1501,2000
+16,Netherlands,1474,2001
+17,Netherlands,1570,2002
+18,Netherlands,1502,2003
+19,Netherlands,1514,2004
+20,Netherlands,1574,2005
+21,Netherlands,1525,2006
+22,Netherlands,1354,2007
+23,Netherlands,1439,2008
+24,Netherlands,1530,2009
+25,Netherlands,1604,2010
+26,Netherlands,1650,2011
+27,Netherlands,1756,2012
+28,Netherlands,1856,2013
+29,Netherlands,1839,2014
+30,Netherlands,1873,2015
+31,Netherlands,1886,2016
+0,Luxembourg,55,1985
+1,Luxembourg,51,1986
+2,Luxembourg,74,1987
+3,Luxembourg,69,1988
+4,Luxembourg,73,1989
+5,Luxembourg,68,1990
+6,Luxembourg,77,1991
+7,Luxembourg,59,1992
+8,Luxembourg,64,1993
+9,Luxembourg,74,1994
+10,Luxembourg,63,1995
+11,Luxembourg,72,1996
+12,Luxembourg,81,1997
+13,Luxembourg,64,1998
+14,Luxembourg,70,1999
+15,Luxembourg,62,2000
+16,Luxembourg,73,2001
+17,Luxembourg,85,2002
+18,Luxembourg,48,2003
+19,Luxembourg,62,2004
+20,Luxembourg,49,2005
+21,Luxembourg,65,2006
+22,Luxembourg,78,2007
+23,Luxembourg,43,2008
+24,Luxembourg,48,2009
+25,Luxembourg,54,2010
+26,Luxembourg,55,2011
+27,Luxembourg,51,2012
+28,Luxembourg,40,2013
+29,Luxembourg,67,2014
+30,Luxembourg,64,2015
+0,Greece,405,1985
+1,Greece,393,1986
+2,Greece,410,1987
+3,Greece,403,1988
+4,Greece,383,1989
+5,Greece,349,1990
+6,Greece,381,1991
+7,Greece,351,1992
+8,Greece,412,1993
+9,Greece,355,1994
+10,Greece,370,1995
+11,Greece,356,1996
+12,Greece,374,1997
+13,Greece,403,1998
+14,Greece,381,1999
+15,Greece,382,2000
+16,Greece,334,2001
+17,Greece,323,2002
+18,Greece,375,2003
+19,Greece,353,2004
+20,Greece,400,2005
+21,Greece,394,2006
+22,Greece,328,2007
+23,Greece,373,2008
+24,Greece,391,2009
+25,Greece,377,2010
+26,Greece,477,2011
+27,Greece,508,2012
+28,Greece,533,2013
+29,Greece,565,2014
+30,Greece,529,2015
+0,Malta,2,1985
+1,Malta,1,1986
+2,Malta,1,1987
+3,Malta,9,1988
+4,Malta,23,1989
+5,Malta,8,1990
+6,Malta,10,1991
+7,Malta,18,1992
+8,Malta,16,1993
+9,Malta,15,1994
+10,Malta,17,1995
+11,Malta,10,1996
+12,Malta,15,1997
+13,Malta,12,1998
+14,Malta,27,1999
+15,Malta,23,2000
+16,Malta,30,2001
+17,Malta,19,2002
+18,Malta,20,2003
+19,Malta,24,2004
+20,Malta,19,2005
+21,Malta,26,2006
+22,Malta,26,2007
+23,Malta,14,2008
+24,Malta,36,2009
+25,Malta,31,2010
+26,Malta,20,2011
+27,Malta,25,2012
+28,Malta,22,2013
+29,Malta,32,2014
+30,Malta,34,2015
+0,Mexico,1544,1985
+1,Mexico,1714,1986
+2,Mexico,1701,1987
+3,Mexico,1703,1988
+4,Mexico,1865,1989
+5,Mexico,1926,1990
+6,Mexico,2103,1991
+7,Mexico,2237,1992
+8,Mexico,2342,1993
+9,Mexico,2588,1994
+10,Mexico,2877,1995
+11,Mexico,3008,1996
+12,Mexico,3350,1997
+13,Mexico,3312,1998
+14,Mexico,3327,1999
+15,Mexico,3456,2000
+16,Mexico,3760,2001
+17,Mexico,3826,2002
+18,Mexico,4070,2003
+19,Mexico,4056,2004
+20,Mexico,4274,2005
+21,Mexico,4230,2006
+22,Mexico,4285,2007
+23,Mexico,4642,2008
+24,Mexico,5023,2009
+25,Mexico,4858,2010
+26,Mexico,5558,2011
+27,Mexico,5381,2012
+28,Mexico,5711,2013
+29,Mexico,6178,2014
+30,Mexico,6234,2015
+0,Argentina,1988,1985
+1,Argentina,2284,1986
+2,Argentina,2286,1987
+3,Argentina,2354,1988
+4,Argentina,2247,1989
+5,Argentina,2140,1990
+6,Argentina,1951,1991
+7,Argentina,2184,1992
+8,Argentina,2230,1993
+9,Argentina,2241,1994
+10,Argentina,2204,1995
+11,Argentina,2229,1996
+12,Argentina,2184,1997
+13,Argentina,2347,1998
+14,Argentina,2423,1999
+15,Argentina,2774,2000
+16,Argentina,3132,2001
+17,Argentina,3162,2002
+18,Argentina,3289,2003
+19,Argentina,3121,2004
+20,Argentina,3058,2005
+21,Argentina,3108,2006
+22,Argentina,2946,2007
+23,Argentina,3059,2008
+24,Argentina,2884,2009
+25,Argentina,2943,2010
+26,Argentina,2912,2011
+27,Argentina,3248,2012
+28,Argentina,2987,2013
+29,Argentina,3231,2014
+30,Argentina,3073,2015
+0,Italy,4759,1985
+1,Italy,4691,1986
+2,Italy,4516,1987
+3,Italy,4381,1988
+4,Italy,4342,1989
+5,Italy,4402,1990
+6,Italy,4453,1991
+7,Italy,4543,1992
+8,Italy,4697,1993
+9,Italy,4536,1994
+10,Italy,4569,1995
+11,Italy,4689,1996
+12,Italy,4694,1997
+13,Italy,4504,1998
+14,Italy,4115,1999
+15,Italy,4108,2000
+16,Italy,4030,2001
+17,Italy,4069,2002
+18,Italy,4075,2003
+19,Italy,3986,2004
+20,Italy,3742,2005
+21,Italy,3700,2006
+22,Italy,3757,2007
+23,Italy,3904,2008
+24,Italy,3974,2009
+25,Italy,3989,2010
+26,Italy,4153,2011
+27,Italy,4257,2012
+28,Italy,4290,2013
+29,Italy,4147,2014
+30,Italy,3988,2015
+0,Chile,683,1985
+1,Chile,654,1986
+2,Chile,693,1987
+3,Chile,697,1988
+4,Chile,725,1989
+5,Chile,743,1990
+6,Chile,787,1991
+7,Chile,658,1992
+8,Chile,740,1993
+9,Chile,801,1994
+10,Chile,930,1995
+11,Chile,917,1996
+12,Chile,910,1997
+13,Chile,1031,1998
+14,Chile,1041,1999
+15,Chile,1473,2000
+16,Chile,1625,2001
+17,Chile,1603,2002
+18,Chile,1654,2003
+19,Chile,1735,2004
+20,Chile,1682,2005
+21,Chile,1795,2006
+22,Chile,1848,2007
+23,Chile,2088,2008
+24,Chile,2148,2009
+25,Chile,2001,2010
+26,Chile,2027,2011
+27,Chile,1841,2012
+28,Chile,1738,2013
+29,Chile,1789,2014
+30,Chile,1838,2015
+0,Ecuador,393,1985
+1,Ecuador,377,1986
+2,Ecuador,390,1987
+3,Ecuador,466,1988
+4,Ecuador,431,1989
+5,Ecuador,448,1990
+6,Ecuador,494,1991
+7,Ecuador,505,1992
+8,Ecuador,574,1993
+9,Ecuador,512,1994
+10,Ecuador,546,1995
+11,Ecuador,593,1996
+12,Ecuador,579,1997
+13,Ecuador,546,1998
+14,Ecuador,616,1999
+15,Ecuador,534,2000
+16,Ecuador,584,2001
+17,Ecuador,577,2002
+18,Ecuador,675,2003
+19,Ecuador,791,2004
+20,Ecuador,943,2005
+21,Ecuador,900,2006
+22,Ecuador,1005,2007
+23,Ecuador,928,2008
+24,Ecuador,964,2009
+25,Ecuador,912,2010
+26,Ecuador,918,2011
+27,Ecuador,976,2012
+28,Ecuador,676,2013
+29,Ecuador,734,2014
+30,Ecuador,1073,2015
+0,Brazil,4228,1985
+1,Brazil,4271,1986
+2,Brazil,4672,1987
+3,Brazil,4466,1988
+4,Brazil,4463,1989
+5,Brazil,4803,1990
+6,Brazil,5156,1991
+7,Brazil,5207,1992
+8,Brazil,5508,1993
+9,Brazil,5896,1994
+10,Brazil,6536,1995
+11,Brazil,6698,1996
+12,Brazil,6891,1997
+13,Brazil,6922,1998
+14,Brazil,6507,1999
+15,Brazil,6763,2000
+16,Brazil,7710,2001
+17,Brazil,7697,2002
+18,Brazil,7839,2003
+19,Brazil,7995,2004
+20,Brazil,8529,2005
+21,Brazil,8618,2006
+22,Brazil,8855,2007
+23,Brazil,9184,2008
+24,Brazil,9346,2009
+25,Brazil,9429,2010
+26,Brazil,9822,2011
+27,Brazil,10295,2012
+28,Brazil,10513,2013
+29,Brazil,10631,2014
+30,Brazil,11163,2015
+0,United Kingdom,5105,1985
+1,United Kingdom,4839,1986
+2,United Kingdom,4594,1987
+3,United Kingdom,4971,1988
+4,United Kingdom,4361,1989
+5,United Kingdom,4643,1990
+6,United Kingdom,4547,1991
+7,United Kingdom,4628,1992
+8,United Kingdom,4462,1993
+9,United Kingdom,4380,1994
+10,United Kingdom,4315,1995
+11,United Kingdom,4165,1996
+12,United Kingdom,4143,1997
+13,United Kingdom,4389,1998
+14,United Kingdom,4448,1999
+15,United Kingdom,4290,2000
+16,United Kingdom,4128,2001
+17,United Kingdom,4117,2002
+18,United Kingdom,3979,2003
+19,United Kingdom,4183,2004
+20,United Kingdom,4047,2005
+21,United Kingdom,4122,2006
+22,United Kingdom,3897,2007
+23,United Kingdom,4259,2008
+24,United Kingdom,4246,2009
+25,United Kingdom,4188,2010
+26,United Kingdom,4393,2011
+27,United Kingdom,4444,2012
+28,United Kingdom,4824,2013
+29,United Kingdom,4788,2014
+30,United Kingdom,4910,2015
+0,Singapore,324,1985
+1,Singapore,326,1986
+2,Singapore,301,1987
+3,Singapore,366,1988
+4,Singapore,394,1989
+5,Singapore,354,1990
+6,Singapore,296,1991
+7,Singapore,277,1992
+8,Singapore,270,1993
+9,Singapore,316,1994
+10,Singapore,364,1995
+11,Singapore,239,1996
+12,Singapore,303,1997
+13,Singapore,328,1998
+14,Singapore,277,1999
+15,Singapore,309,2000
+16,Singapore,305,2001
+17,Singapore,321,2002
+18,Singapore,320,2003
+19,Singapore,335,2004
+20,Singapore,359,2005
+21,Singapore,372,2006
+22,Singapore,328,2007
+23,Singapore,319,2008
+24,Singapore,349,2009
+25,Singapore,296,2010
+26,Singapore,308,2011
+27,Singapore,392,2012
+28,Singapore,357,2013
+29,Singapore,355,2014
+30,Singapore,329,2015
+0,Belgium,2281,1985
+1,Belgium,2202,1986
+2,Belgium,2238,1987
+3,Belgium,1996,1988
+4,Belgium,1920,1989
+5,Belgium,1895,1990
+6,Belgium,1805,1991
+7,Belgium,1878,1992
+8,Belgium,2142,1993
+9,Belgium,2131,1994
+10,Belgium,2155,1995
+11,Belgium,2013,1996
+12,Belgium,2146,1997
+13,Belgium,2019,1998
+14,Belgium,1857,1999
+15,Belgium,2143,2000
+16,Belgium,2165,2001
+17,Belgium,2076,2002
+18,Belgium,2091,2003
+19,Belgium,1987,2004
+20,Belgium,2029,2005
+21,Belgium,1935,2006
+22,Belgium,1857,2007
+23,Belgium,1999,2008
+24,Belgium,2013,2009
+25,Belgium,2013,2010
+26,Belgium,2088,2011
+27,Belgium,2026,2012
+28,Belgium,1895,2013
+29,Belgium,1899,2014
+30,Belgium,1867,2015
+0,United States,29446,1985
+1,United States,30892,1986
+2,United States,30783,1987
+3,United States,30388,1988
+4,United States,30218,1989
+5,United States,30895,1990
+6,United States,30790,1991
+7,United States,30471,1992
+8,United States,31084,1993
+9,United States,31123,1994
+10,United States,31272,1995
+11,United States,30879,1996
+12,United States,30517,1997
+13,United States,30558,1998
+14,United States,29183,1999
+15,United States,29343,2000
+16,United States,30607,2001
+17,United States,31645,2002
+18,United States,31477,2003
+19,United States,32428,2004
+20,United States,32629,2005
+21,United States,33292,2006
+22,United States,34596,2007
+23,United States,36030,2008
+24,United States,36900,2009
+25,United States,38362,2010
+26,United States,39508,2011
+27,United States,40596,2012
+28,United States,41143,2013
+29,United States,42769,2014
+30,United States,44189,2015
+0,Japan,23257,1985
+1,Japan,25484,1986
+2,Japan,23663,1987
+3,Japan,22676,1988
+4,Japan,21013,1989
+5,Japan,20002,1990
+6,Japan,19780,1991
+7,Japan,20756,1992
+8,Japan,20353,1993
+9,Japan,20744,1994
+10,Japan,21249,1995
+11,Japan,21967,1996
+12,Japan,23280,1997
+13,Japan,31458,1998
+14,Japan,31115,1999
+15,Japan,29989,2000
+16,Japan,29132,2001
+17,Japan,29715,2002
+18,Japan,31881,2003
+19,Japan,30034,2004
+20,Japan,30369,2005
+21,Japan,29769,2006
+22,Japan,30665,2007
+23,Japan,30073,2008
+24,Japan,30523,2009
+25,Japan,29411,2010
+26,Japan,28766,2011
+27,Japan,26338,2012
+28,Japan,25991,2013
+29,Japan,24357,2014
+30,Japan,23092,2015
+0,Israel,234,1985
+1,Israel,278,1986
+2,Israel,271,1987
+3,Israel,303,1988
+4,Israel,353,1989
+5,Israel,304,1990
+6,Israel,359,1991
+7,Israel,381,1992
+8,Israel,371,1993
+9,Israel,416,1994
+10,Israel,360,1995
+11,Israel,306,1996
+12,Israel,379,1997
+13,Israel,318,1998
+14,Israel,368,1999
+15,Israel,394,2000
+16,Israel,398,2001
+17,Israel,382,2002
+18,Israel,417,2003
+19,Israel,411,2004
+20,Israel,425,2005
+21,Israel,367,2006
+22,Israel,326,2007
+23,Israel,354,2008
+24,Israel,404,2009
+25,Israel,480,2010
+26,Israel,409,2011
+27,Israel,430,2012
+28,Israel,372,2013
+29,Israel,382,2014
+30,Israel,342,2015
+0,Spain,2514,1985
+1,Spain,2755,1986
+2,Spain,2804,1987
+3,Spain,2960,1988
+4,Spain,2987,1989
+5,Spain,2939,1990
+6,Spain,2916,1991
+7,Spain,2786,1992
+8,Spain,3037,1993
+9,Spain,3171,1994
+10,Spain,3157,1995
+11,Spain,3320,1996
+12,Spain,3373,1997
+13,Spain,3261,1998
+14,Spain,3220,1999
+15,Spain,3394,2000
+16,Spain,3189,2001
+17,Spain,3372,2002
+18,Spain,3478,2003
+19,Spain,3508,2004
+20,Spain,3399,2005
+21,Spain,3247,2006
+22,Spain,3264,2007
+23,Spain,3457,2008
+24,Spain,3429,2009
+25,Spain,3158,2010
+26,Spain,3180,2011
+27,Spain,3539,2012
+28,Spain,3873,2013
+29,Spain,3911,2014
+30,Spain,3604,2015
+0,Colombia,1001,1985
+1,Colombia,958,1986
+2,Colombia,951,1987
+3,Colombia,912,1988
+4,Colombia,831,1989
+5,Colombia,865,1990
+6,Colombia,1010,1991
+7,Colombia,1086,1992
+8,Colombia,1085,1993
+9,Colombia,1198,1994
+10,Colombia,1150,1995
+11,Colombia,1209,1996
+12,Colombia,1242,1997
+13,Colombia,2052,1998
+14,Colombia,2143,1999
+15,Colombia,2358,2000
+16,Colombia,2412,2001
+17,Colombia,2379,2002
+18,Colombia,2269,2003
+19,Colombia,2244,2004
+20,Colombia,2102,2005
+21,Colombia,2177,2006
+22,Colombia,2181,2007
+23,Colombia,2220,2008
+24,Colombia,2249,2009
+25,Colombia,2107,2010
+26,Colombia,2044,2011
+27,Colombia,2119,2012
+28,Colombia,2068,2013
+29,Colombia,2126,2014
+30,Colombia,2332,2015
+0,Australia,1861,1985
+1,Australia,2044,1986
+2,Australia,2164,1987
+3,Australia,2172,1988
+4,Australia,2066,1989
+5,Australia,2202,1990
+6,Australia,2288,1991
+7,Australia,2251,1992
+8,Australia,2038,1993
+9,Australia,2283,1994
+10,Australia,2170,1995
+11,Australia,2426,1996
+12,Australia,2646,1997
+13,Australia,2632,1998
+14,Australia,2488,1999
+15,Australia,2391,2000
+16,Australia,2458,2001
+17,Australia,2319,2002
+18,Australia,2156,2003
+19,Australia,2114,2004
+20,Australia,2117,2006
+21,Australia,2229,2007
+22,Australia,2341,2008
+23,Australia,2337,2009
+24,Australia,2420,2010
+25,Australia,2392,2011
+26,Australia,2580,2012
+27,Australia,2608,2013
+28,Australia,2891,2014
+29,Australia,3027,2015
+0,Ireland,276,1985
+1,Ireland,282,1986
+2,Ireland,245,1987
+3,Ireland,266,1988
+4,Ireland,278,1989
+5,Ireland,334,1990
+6,Ireland,345,1991
+7,Ireland,362,1992
+8,Ireland,326,1993
+9,Ireland,394,1994
+10,Ireland,403,1995
+11,Ireland,408,1996
+12,Ireland,466,1997
+13,Ireland,498,1998
+14,Ireland,424,1999
+15,Ireland,463,2000
+16,Ireland,488,2001
+17,Ireland,449,2002
+18,Ireland,454,2003
+19,Ireland,464,2004
+20,Ireland,451,2005
+21,Ireland,452,2006
+22,Ireland,458,2007
+23,Ireland,506,2008
+24,Ireland,527,2009
+25,Ireland,486,2010
+26,Ireland,554,2011
+27,Ireland,542,2012
+28,Ireland,487,2013
+29,Ireland,486,2014
+0,France,12501,1985
+1,France,12529,1986
+2,France,12161,1987
+3,France,11599,1988
+4,France,11715,1989
+5,France,11403,1990
+6,France,11502,1991
+7,France,11644,1992
+8,France,12251,1993
+9,France,12041,1994
+10,France,11819,1995
+11,France,11279,1996
+12,France,11139,1997
+13,France,10534,1998
+14,France,10268,1999
+15,France,10849,2000
+16,France,10449,2001
+17,France,10643,2002
+18,France,10871,2003
+19,France,10804,2004
+20,France,10713,2005
+21,France,10423,2006
+22,France,10127,2007
+23,France,10353,2008
+24,France,10499,2009
+25,France,10379,2010
+26,France,10408,2011
+27,France,9743,2012
+28,France,9600,2013
+29,France,8881,2014
+0,Costa Rica,128,1985
+1,Costa Rica,131,1986
+2,Costa Rica,119,1987
+3,Costa Rica,138,1988
+4,Costa Rica,167,1989
+5,Costa Rica,157,1990
+6,Costa Rica,125,1991
+7,Costa Rica,149,1992
+8,Costa Rica,164,1993
+9,Costa Rica,162,1994
+10,Costa Rica,209,1995
+11,Costa Rica,209,1996
+12,Costa Rica,187,1997
+13,Costa Rica,223,1998
+14,Costa Rica,233,1999
+15,Costa Rica,239,2000
+16,Costa Rica,198,2001
+17,Costa Rica,275,2002
+18,Costa Rica,315,2003
+19,Costa Rica,325,2004
+20,Costa Rica,272,2005
+21,Costa Rica,350,2006
+22,Costa Rica,270,2007
+23,Costa Rica,261,2008
+24,Costa Rica,278,2009
+25,Costa Rica,311,2010
+26,Costa Rica,316,2011
+27,Costa Rica,302,2012
+28,Costa Rica,311,2013
+29,Costa Rica,268,2014
+0,Guatemala,203,1986
+1,Guatemala,241,1987
+2,Guatemala,174,1988
+3,Guatemala,152,1989
+4,Guatemala,158,1990
+5,Guatemala,156,1991
+6,Guatemala,173,1992
+7,Guatemala,165,1993
+8,Guatemala,142,1994
+9,Guatemala,211,1995
+10,Guatemala,157,1996
+11,Guatemala,179,1997
+12,Guatemala,201,1998
+13,Guatemala,234,1999
+14,Guatemala,182,2000
+15,Guatemala,202,2001
+16,Guatemala,258,2002
+17,Guatemala,253,2003
+18,Guatemala,250,2004
+19,Guatemala,238,2005
+20,Guatemala,298,2006
+21,Guatemala,327,2007
+22,Guatemala,492,2008
+23,Guatemala,511,2009
+24,Guatemala,352,2010
+25,Guatemala,359,2011
+26,Guatemala,420,2012
+27,Guatemala,455,2013
+28,Guatemala,512,2014
+29,Guatemala,494,2015
+0,Norway,579,1986
+1,Norway,649,1987
+2,Norway,708,1988
+3,Norway,660,1989
+4,Norway,659,1990
+5,Norway,675,1991
+6,Norway,616,1992
+7,Norway,590,1993
+8,Norway,531,1994
+9,Norway,548,1995
+10,Norway,517,1996
+11,Norway,533,1997
+12,Norway,548,1998
+13,Norway,583,1999
+14,Norway,541,2000
+15,Norway,549,2001
+16,Norway,494,2002
+17,Norway,502,2003
+18,Norway,529,2004
+19,Norway,533,2005
+20,Norway,532,2006
+21,Norway,485,2007
+22,Norway,505,2008
+23,Norway,573,2009
+24,Norway,548,2010
+25,Norway,598,2011
+26,Norway,515,2012
+27,Norway,554,2013
+28,Norway,548,2014
+29,Norway,590,2015
+0,Bulgaria,1456,1985
+1,Bulgaria,1408,1986
+2,Bulgaria,1492,1987
+3,Bulgaria,1452,1988
+4,Bulgaria,1460,1989
+5,Bulgaria,1323,1990
+6,Bulgaria,1384,1991
+7,Bulgaria,1519,1992
+8,Bulgaria,1470,1993
+9,Bulgaria,1464,1994
+10,Bulgaria,1433,1995
+11,Bulgaria,1526,1996
+12,Bulgaria,1465,1997
+13,Bulgaria,1503,1998
+14,Bulgaria,1307,1999
+15,Bulgaria,1383,2000
+16,Bulgaria,1314,2001
+17,Bulgaria,1317,2002
+18,Bulgaria,1092,2003
+19,Bulgaria,1013,2004
+20,Bulgaria,982,2005
+21,Bulgaria,977,2006
+22,Bulgaria,902,2007
+23,Bulgaria,939,2008
+24,Bulgaria,868,2009
+25,Bulgaria,859,2010
+26,Bulgaria,763,2011
+27,Bulgaria,872,2012
+28,Bulgaria,721,2013
+29,Bulgaria,724,2014
+0,Sweden,1541,1987
+1,Sweden,1590,1988
+2,Sweden,1579,1989
+3,Sweden,1471,1990
+4,Sweden,1483,1991
+5,Sweden,1355,1992
+6,Sweden,1373,1993
+7,Sweden,1324,1994
+8,Sweden,1348,1995
+9,Sweden,1253,1996
+10,Sweden,1201,1997
+11,Sweden,1231,1998
+12,Sweden,1220,1999
+13,Sweden,1131,2000
+14,Sweden,1197,2001
+15,Sweden,1180,2002
+16,Sweden,1112,2003
+17,Sweden,1155,2004
+18,Sweden,1219,2005
+19,Sweden,1197,2006
+20,Sweden,1126,2007
+21,Sweden,1170,2008
+22,Sweden,1242,2009
+23,Sweden,1141,2010
+24,Sweden,1112,2011
+25,Sweden,1154,2012
+26,Sweden,1230,2013
+27,Sweden,1148,2014
+28,Sweden,1182,2015
+29,Sweden,1130,2016
+0,New Zealand,338,1985
+1,New Zealand,414,1986
+2,New Zealand,463,1987
+3,New Zealand,484,1988
+4,New Zealand,465,1989
+5,New Zealand,455,1990
+6,New Zealand,474,1991
+7,New Zealand,493,1992
+8,New Zealand,443,1993
+9,New Zealand,512,1994
+10,New Zealand,545,1995
+11,New Zealand,540,1996
+12,New Zealand,562,1997
+13,New Zealand,574,1998
+14,New Zealand,516,1999
+15,New Zealand,458,2000
+16,New Zealand,508,2001
+17,New Zealand,467,2002
+18,New Zealand,519,2003
+19,New Zealand,495,2004
+20,New Zealand,514,2005
+21,New Zealand,527,2006
+22,New Zealand,494,2007
+23,New Zealand,520,2008
+24,New Zealand,512,2009
+25,New Zealand,536,2010
+26,New Zealand,493,2011
+27,New Zealand,549,2012
+28,New Zealand,513,2013
+0,Finland,1363,1987
+1,Finland,1402,1988
+2,Finland,1413,1989
+3,Finland,1512,1990
+4,Finland,1493,1991
+5,Finland,1451,1992
+6,Finland,1397,1993
+7,Finland,1387,1994
+8,Finland,1388,1995
+9,Finland,1247,1996
+10,Finland,1322,1997
+11,Finland,1228,1998
+12,Finland,1207,1999
+13,Finland,1165,2000
+14,Finland,1204,2001
+15,Finland,1095,2002
+16,Finland,1075,2003
+17,Finland,1064,2004
+18,Finland,994,2005
+19,Finland,1062,2006
+20,Finland,995,2007
+21,Finland,1033,2008
+22,Finland,1034,2009
+23,Finland,954,2010
+24,Finland,912,2011
+25,Finland,873,2012
+26,Finland,887,2013
+27,Finland,789,2014
+28,Finland,731,2015
+0,Turkmenistan,272,1987
+1,Turkmenistan,270,1988
+2,Turkmenistan,253,1989
+3,Turkmenistan,298,1990
+4,Turkmenistan,273,1991
+5,Turkmenistan,271,1992
+6,Turkmenistan,240,1993
+7,Turkmenistan,234,1994
+8,Turkmenistan,244,1995
+9,Turkmenistan,283,1996
+10,Turkmenistan,333,1997
+11,Turkmenistan,405,1998
+12,Turkmenistan,442,1999
+13,Turkmenistan,383,2000
+14,Turkmenistan,445,2001
+15,Turkmenistan,416,2002
+16,Turkmenistan,377,2003
+17,Turkmenistan,392,2004
+18,Turkmenistan,468,2005
+19,Turkmenistan,506,2006
+20,Turkmenistan,354,2007
+21,Turkmenistan,484,2008
+22,Turkmenistan,165,2009
+23,Turkmenistan,178,2010
+24,Turkmenistan,130,2011
+25,Turkmenistan,138,2012
+26,Turkmenistan,101,2013
+27,Turkmenistan,136,2014
+28,Turkmenistan,133,2015
+0,Canada,3258,1985
+1,Canada,3670,1986
+2,Canada,3591,1987
+3,Canada,3510,1988
+4,Canada,3491,1989
+5,Canada,3378,1990
+6,Canada,3593,1991
+7,Canada,3708,1992
+8,Canada,3803,1993
+9,Canada,3748,1994
+10,Canada,3968,1995
+11,Canada,3941,1996
+12,Canada,3681,1997
+13,Canada,3699,1998
+14,Canada,4074,1999
+15,Canada,3606,2000
+16,Canada,3694,2001
+17,Canada,3650,2002
+18,Canada,3765,2003
+19,Canada,3613,2004
+20,Canada,3743,2005
+21,Canada,3512,2006
+22,Canada,3611,2007
+23,Canada,3705,2008
+24,Canada,3890,2009
+25,Canada,3951,2010
+26,Canada,3728,2011
+27,Canada,3926,2012
+28,Canada,4054,2013
+0,Saint Lucia,5,1986
+1,Saint Lucia,11,1987
+2,Saint Lucia,10,1988
+3,Saint Lucia,8,1989
+4,Saint Lucia,3,1990
+5,Saint Lucia,6,1991
+6,Saint Lucia,11,1992
+7,Saint Lucia,8,1993
+8,Saint Lucia,6,1994
+9,Saint Lucia,10,1995
+10,Saint Lucia,7,1996
+11,Saint Lucia,9,1997
+12,Saint Lucia,8,1998
+13,Saint Lucia,8,1999
+14,Saint Lucia,14,2000
+15,Saint Lucia,7,2001
+16,Saint Lucia,12,2002
+17,Saint Lucia,10,2003
+18,Saint Lucia,8,2004
+19,Saint Lucia,4,2005
+20,Saint Lucia,2,2006
+21,Saint Lucia,0,2008
+22,Saint Lucia,13,2009
+23,Saint Lucia,4,2010
+24,Saint Lucia,8,2011
+25,Saint Lucia,10,2012
+26,Saint Lucia,14,2013
+27,Saint Lucia,14,2014
+0,Suriname,80,1985
+1,Suriname,42,1986
+2,Suriname,52,1987
+3,Suriname,49,1988
+4,Suriname,53,1989
+5,Suriname,26,1990
+6,Suriname,57,1991
+7,Suriname,48,1992
+8,Suriname,55,1995
+9,Suriname,21,1996
+10,Suriname,32,1997
+11,Suriname,29,1998
+12,Suriname,49,1999
+13,Suriname,52,2000
+14,Suriname,72,2001
+15,Suriname,69,2002
+16,Suriname,77,2003
+17,Suriname,67,2004
+18,Suriname,72,2005
+19,Suriname,112,2006
+20,Suriname,119,2007
+21,Suriname,147,2008
+22,Suriname,131,2009
+23,Suriname,136,2010
+24,Suriname,127,2011
+25,Suriname,133,2012
+26,Suriname,131,2013
+27,Suriname,128,2014
+0,Uruguay,287,1985
+1,Uruguay,262,1986
+2,Uruguay,258,1987
+3,Uruguay,268,1988
+4,Uruguay,344,1989
+5,Uruguay,315,1990
+6,Uruguay,418,1993
+7,Uruguay,406,1994
+8,Uruguay,427,1995
+9,Uruguay,393,1996
+10,Uruguay,456,1997
+11,Uruguay,521,1998
+12,Uruguay,450,1999
+13,Uruguay,555,2000
+14,Uruguay,499,2001
+15,Uruguay,675,2002
+16,Uruguay,535,2003
+17,Uruguay,520,2004
+18,Uruguay,498,2005
+19,Uruguay,528,2006
+20,Uruguay,576,2007
+21,Uruguay,523,2008
+22,Uruguay,511,2009
+23,Uruguay,547,2010
+24,Uruguay,599,2012
+25,Uruguay,546,2013
+26,Uruguay,591,2014
+27,Uruguay,630,2015
+0,Belize,3,1986
+1,Belize,4,1987
+2,Belize,1,1989
+3,Belize,3,1990
+4,Belize,2,1991
+5,Belize,1,1993
+6,Belize,8,1994
+7,Belize,14,1995
+8,Belize,8,1996
+9,Belize,1,1997
+10,Belize,12,1998
+11,Belize,18,1999
+12,Belize,18,2000
+13,Belize,19,2001
+14,Belize,14,2002
+15,Belize,12,2003
+16,Belize,20,2004
+17,Belize,12,2005
+18,Belize,11,2006
+19,Belize,8,2007
+20,Belize,11,2008
+21,Belize,15,2009
+22,Belize,15,2010
+23,Belize,33,2011
+24,Belize,18,2012
+25,Belize,17,2013
+26,Belize,24,2014
+27,Belize,26,2015
+0,Ukraine,10050,1987
+1,Ukraine,9751,1988
+2,Ukraine,10887,1989
+3,Ukraine,10645,1990
+4,Ukraine,10700,1991
+5,Ukraine,11666,1992
+6,Ukraine,12469,1993
+7,Ukraine,13826,1994
+8,Ukraine,14541,1995
+9,Ukraine,15160,1996
+10,Ukraine,14903,1997
+11,Ukraine,14789,1998
+12,Ukraine,14363,1999
+13,Ukraine,14467,2000
+14,Ukraine,13131,2001
+15,Ukraine,12536,2002
+16,Ukraine,12313,2003
+17,Ukraine,11256,2004
+18,Ukraine,10621,2005
+19,Ukraine,10013,2006
+20,Ukraine,10032,2007
+21,Ukraine,9454,2008
+22,Ukraine,9715,2009
+23,Ukraine,9089,2010
+24,Ukraine,8973,2011
+25,Ukraine,9058,2012
+26,Ukraine,7968,2014
+27,Ukraine,7574,2015
+0,Thailand,2982,1985
+1,Thailand,2798,1986
+2,Thailand,3035,1987
+3,Thailand,3753,1990
+4,Thailand,3559,1991
+5,Thailand,3550,1992
+6,Thailand,2307,1994
+7,Thailand,4245,1995
+8,Thailand,4443,1996
+9,Thailand,4150,1997
+10,Thailand,4963,1998
+11,Thailand,5276,1999
+12,Thailand,5182,2000
+13,Thailand,4902,2002
+14,Thailand,4484,2003
+15,Thailand,4296,2004
+16,Thailand,3937,2005
+17,Thailand,3608,2006
+18,Thailand,3754,2007
+19,Thailand,3778,2008
+20,Thailand,3787,2009
+21,Thailand,3761,2010
+22,Thailand,3873,2011
+23,Thailand,3985,2012
+24,Thailand,3961,2013
+25,Thailand,3952,2014
+26,Thailand,4205,2015
+27,Thailand,4117,2016
+0,Romania,2529,1989
+1,Romania,2079,1990
+2,Romania,2161,1991
+3,Romania,2650,1992
+4,Romania,2774,1993
+5,Romania,2887,1994
+6,Romania,2793,1995
+7,Romania,2828,1996
+8,Romania,2859,1997
+9,Romania,2838,1998
+10,Romania,2736,1999
+11,Romania,2836,2000
+12,Romania,2720,2001
+13,Romania,3067,2002
+14,Romania,2894,2003
+15,Romania,2720,2004
+16,Romania,2603,2005
+17,Romania,2721,2006
+18,Romania,2430,2007
+19,Romania,2472,2008
+20,Romania,2586,2009
+21,Romania,2766,2010
+22,Romania,2536,2011
+23,Romania,2495,2012
+24,Romania,2407,2013
+25,Romania,2209,2014
+26,Romania,2228,2015
+27,Romania,1953,2016
+0,Portugal,983,1985
+1,Portugal,941,1986
+2,Portugal,960,1987
+3,Portugal,819,1988
+4,Portugal,747,1989
+5,Portugal,870,1990
+6,Portugal,942,1991
+7,Portugal,866,1992
+8,Portugal,780,1993
+9,Portugal,762,1994
+10,Portugal,809,1995
+11,Portugal,653,1996
+12,Portugal,628,1997
+13,Portugal,556,1998
+14,Portugal,545,1999
+15,Portugal,524,2000
+16,Portugal,761,2001
+17,Portugal,1210,2002
+18,Portugal,1156,2003
+19,Portugal,1020,2007
+20,Portugal,1038,2008
+21,Portugal,1025,2009
+22,Portugal,1099,2010
+23,Portugal,1017,2011
+24,Portugal,1076,2012
+25,Portugal,1052,2013
+26,Portugal,1222,2014
+0,Paraguay,63,1985
+1,Paraguay,56,1986
+2,Paraguay,62,1987
+3,Paraguay,67,1989
+4,Paraguay,99,1990
+5,Paraguay,75,1991
+6,Paraguay,108,1994
+7,Paraguay,118,1995
+8,Paraguay,99,1996
+9,Paraguay,126,1997
+10,Paraguay,138,1998
+11,Paraguay,161,1999
+12,Paraguay,154,2000
+13,Paraguay,152,2001
+14,Paraguay,177,2002
+15,Paraguay,174,2003
+16,Paraguay,234,2004
+17,Paraguay,239,2005
+18,Paraguay,251,2006
+19,Paraguay,227,2007
+20,Paraguay,222,2008
+21,Paraguay,283,2009
+22,Paraguay,223,2010
+23,Paraguay,298,2011
+24,Paraguay,275,2012
+25,Paraguay,323,2013
+26,Paraguay,379,2014
+0,Trinidad and Tobago,29,1985
+1,Trinidad and Tobago,104,1986
+2,Trinidad and Tobago,119,1987
+3,Trinidad and Tobago,164,1988
+4,Trinidad and Tobago,173,1989
+5,Trinidad and Tobago,170,1990
+6,Trinidad and Tobago,148,1991
+7,Trinidad and Tobago,163,1992
+8,Trinidad and Tobago,174,1993
+9,Trinidad and Tobago,148,1994
+10,Trinidad and Tobago,184,1995
+11,Trinidad and Tobago,146,1996
+12,Trinidad and Tobago,160,1997
+13,Trinidad and Tobago,171,1998
+14,Trinidad and Tobago,139,1999
+15,Trinidad and Tobago,166,2000
+16,Trinidad and Tobago,179,2001
+17,Trinidad and Tobago,156,2002
+18,Trinidad and Tobago,144,2003
+19,Trinidad and Tobago,168,2004
+20,Trinidad and Tobago,136,2005
+21,Trinidad and Tobago,141,2006
+22,Trinidad and Tobago,131,2007
+23,Trinidad and Tobago,199,2008
+24,Trinidad and Tobago,128,2009
+25,Trinidad and Tobago,160,2010
+26,Trinidad and Tobago,139,2011
+0,Antigua and Barbuda,0,1985
+1,Antigua and Barbuda,0,1986
+2,Antigua and Barbuda,0,1987
+3,Antigua and Barbuda,0,1988
+4,Antigua and Barbuda,0,1989
+5,Antigua and Barbuda,1,1990
+6,Antigua and Barbuda,0,1991
+7,Antigua and Barbuda,0,1992
+8,Antigua and Barbuda,1,1993
+9,Antigua and Barbuda,0,1994
+10,Antigua and Barbuda,0,1995
+11,Antigua and Barbuda,0,1998
+12,Antigua and Barbuda,0,1999
+13,Antigua and Barbuda,2,2000
+14,Antigua and Barbuda,2,2001
+15,Antigua and Barbuda,0,2002
+16,Antigua and Barbuda,1,2003
+17,Antigua and Barbuda,2,2004
+18,Antigua and Barbuda,0,2005
+19,Antigua and Barbuda,0,2006
+20,Antigua and Barbuda,1,2007
+21,Antigua and Barbuda,0,2008
+22,Antigua and Barbuda,0,2009
+23,Antigua and Barbuda,0,2012
+24,Antigua and Barbuda,0,2013
+25,Antigua and Barbuda,0,2014
+26,Antigua and Barbuda,1,2015
+0,Czech Republic,1997,1990
+1,Czech Republic,1904,1991
+2,Czech Republic,1991,1992
+3,Czech Republic,1917,1993
+4,Czech Republic,1872,1994
+5,Czech Republic,1733,1995
+6,Czech Republic,1568,1996
+7,Czech Republic,1666,1997
+8,Czech Republic,1613,1998
+9,Czech Republic,1610,1999
+10,Czech Republic,1649,2000
+11,Czech Republic,1623,2001
+12,Czech Republic,1534,2002
+13,Czech Republic,1719,2003
+14,Czech Republic,1583,2004
+15,Czech Republic,1565,2005
+16,Czech Republic,1400,2006
+17,Czech Republic,1379,2007
+18,Czech Republic,1379,2008
+19,Czech Republic,1464,2009
+20,Czech Republic,1502,2010
+21,Czech Republic,1590,2011
+22,Czech Republic,1658,2012
+23,Czech Republic,1577,2013
+24,Czech Republic,1489,2014
+25,Czech Republic,1387,2015
+26,Czech Republic,1318,2016
+0,Kazakhstan,3172,1990
+1,Kazakhstan,3082,1991
+2,Kazakhstan,3356,1992
+3,Kazakhstan,4019,1993
+4,Kazakhstan,4024,1994
+5,Kazakhstan,4706,1995
+6,Kazakhstan,4773,1996
+7,Kazakhstan,4642,1997
+8,Kazakhstan,4313,1998
+9,Kazakhstan,3991,1999
+10,Kazakhstan,4428,2000
+11,Kazakhstan,4377,2001
+12,Kazakhstan,4240,2002
+13,Kazakhstan,4321,2003
+14,Kazakhstan,4394,2004
+15,Kazakhstan,3903,2005
+16,Kazakhstan,4076,2006
+17,Kazakhstan,4141,2007
+18,Kazakhstan,3997,2008
+19,Kazakhstan,3838,2009
+20,Kazakhstan,3609,2010
+21,Kazakhstan,3401,2011
+22,Kazakhstan,3240,2012
+23,Kazakhstan,3512,2013
+24,Kazakhstan,3119,2014
+25,Kazakhstan,2872,2015
+0,Kyrgyzstan,547,1990
+1,Kyrgyzstan,543,1991
+2,Kyrgyzstan,491,1992
+3,Kyrgyzstan,563,1993
+4,Kyrgyzstan,581,1994
+5,Kyrgyzstan,605,1995
+6,Kyrgyzstan,480,1996
+7,Kyrgyzstan,496,1997
+8,Kyrgyzstan,509,1998
+9,Kyrgyzstan,556,1999
+10,Kyrgyzstan,510,2000
+11,Kyrgyzstan,560,2001
+12,Kyrgyzstan,567,2002
+13,Kyrgyzstan,479,2003
+14,Kyrgyzstan,438,2004
+15,Kyrgyzstan,470,2005
+16,Kyrgyzstan,463,2006
+17,Kyrgyzstan,482,2007
+18,Kyrgyzstan,473,2008
+19,Kyrgyzstan,458,2009
+20,Kyrgyzstan,500,2010
+21,Kyrgyzstan,471,2011
+22,Kyrgyzstan,524,2012
+23,Kyrgyzstan,446,2013
+24,Kyrgyzstan,461,2014
+25,Kyrgyzstan,417,2015
+0,Germany,13924,1990
+1,Germany,14010,1991
+2,Germany,13458,1992
+3,Germany,12690,1993
+4,Germany,12718,1994
+5,Germany,12888,1995
+6,Germany,12225,1996
+7,Germany,12256,1997
+8,Germany,11654,1998
+9,Germany,11160,1999
+10,Germany,11073,2000
+11,Germany,11167,2001
+12,Germany,11176,2002
+13,Germany,11155,2003
+14,Germany,10741,2004
+15,Germany,10270,2005
+16,Germany,9775,2006
+17,Germany,9409,2007
+18,Germany,9459,2008
+19,Germany,9579,2009
+20,Germany,10030,2010
+21,Germany,10153,2011
+22,Germany,9896,2012
+23,Germany,10091,2013
+24,Germany,10217,2014
+25,Germany,10088,2015
+0,Grenada,1,1985
+1,Grenada,4,1988
+2,Grenada,4,1989
+3,Grenada,2,1990
+4,Grenada,0,1991
+5,Grenada,0,1992
+6,Grenada,3,1993
+7,Grenada,4,1994
+8,Grenada,1,1995
+9,Grenada,1,1996
+10,Grenada,0,2001
+11,Grenada,0,2002
+12,Grenada,4,2003
+13,Grenada,1,2004
+14,Grenada,6,2005
+15,Grenada,1,2006
+16,Grenada,3,2007
+17,Grenada,0,2008
+18,Grenada,0,2009
+19,Grenada,0,2010
+20,Grenada,1,2011
+21,Grenada,2,2012
+22,Grenada,0,2013
+23,Grenada,0,2014
+24,Grenada,0,2015
+25,Grenada,0,2016
+0,Hungary,3993,1991
+1,Hungary,4000,1992
+2,Hungary,3694,1993
+3,Hungary,3625,1994
+4,Hungary,3366,1995
+5,Hungary,3436,1996
+6,Hungary,3208,1997
+7,Hungary,3245,1998
+8,Hungary,3326,1999
+9,Hungary,3269,2000
+10,Hungary,2978,2001
+11,Hungary,2839,2002
+12,Hungary,2800,2003
+13,Hungary,2742,2004
+14,Hungary,2619,2005
+15,Hungary,2461,2006
+16,Hungary,2450,2007
+17,Hungary,2476,2008
+18,Hungary,2460,2009
+19,Hungary,2489,2010
+20,Hungary,2420,2011
+21,Hungary,2349,2012
+22,Hungary,2092,2013
+23,Hungary,1925,2014
+24,Hungary,1868,2015
+25,Hungary,1761,2016
+0,Panama,56,1985
+1,Panama,82,1986
+2,Panama,85,1987
+3,Panama,87,1988
+4,Panama,70,1989
+5,Panama,113,1996
+6,Panama,145,1997
+7,Panama,148,1998
+8,Panama,143,1999
+9,Panama,143,2000
+10,Panama,162,2001
+11,Panama,160,2002
+12,Panama,195,2003
+13,Panama,186,2004
+14,Panama,172,2005
+15,Panama,185,2006
+16,Panama,171,2007
+17,Panama,186,2008
+18,Panama,177,2009
+19,Panama,151,2010
+20,Panama,144,2011
+21,Panama,135,2012
+22,Panama,130,2013
+23,Panama,147,2014
+24,Panama,110,2015
+0,Saint Vincent and Grenadines,2,1985
+1,Saint Vincent and Grenadines,0,1986
+2,Saint Vincent and Grenadines,0,1987
+3,Saint Vincent and Grenadines,5,1990
+4,Saint Vincent and Grenadines,7,1995
+5,Saint Vincent and Grenadines,8,1996
+6,Saint Vincent and Grenadines,3,1997
+7,Saint Vincent and Grenadines,10,1998
+8,Saint Vincent and Grenadines,6,1999
+9,Saint Vincent and Grenadines,5,2000
+10,Saint Vincent and Grenadines,8,2001
+11,Saint Vincent and Grenadines,7,2002
+12,Saint Vincent and Grenadines,4,2003
+13,Saint Vincent and Grenadines,4,2004
+14,Saint Vincent and Grenadines,8,2005
+15,Saint Vincent and Grenadines,6,2006
+16,Saint Vincent and Grenadines,11,2007
+17,Saint Vincent and Grenadines,4,2008
+18,Saint Vincent and Grenadines,1,2009
+19,Saint Vincent and Grenadines,5,2010
+20,Saint Vincent and Grenadines,5,2011
+21,Saint Vincent and Grenadines,10,2012
+22,Saint Vincent and Grenadines,0,2013
+23,Saint Vincent and Grenadines,2,2014
+24,Saint Vincent and Grenadines,3,2015
+0,Kuwait,17,1985
+1,Kuwait,16,1986
+2,Kuwait,16,1987
+3,Kuwait,18,1993
+4,Kuwait,30,1994
+5,Kuwait,26,1995
+6,Kuwait,30,1996
+7,Kuwait,33,1997
+8,Kuwait,35,1998
+9,Kuwait,46,1999
+10,Kuwait,34,2000
+11,Kuwait,30,2001
+12,Kuwait,45,2002
+13,Kuwait,44,2003
+14,Kuwait,45,2004
+15,Kuwait,52,2005
+16,Kuwait,45,2006
+17,Kuwait,51,2007
+18,Kuwait,47,2008
+19,Kuwait,61,2009
+20,Kuwait,39,2010
+21,Kuwait,41,2011
+22,Kuwait,56,2012
+23,Kuwait,41,2013
+24,Kuwait,68,2014
+0,Barbados,7,1985
+1,Barbados,8,1986
+2,Barbados,6,1987
+3,Barbados,12,1988
+4,Barbados,16,1989
+5,Barbados,16,1990
+6,Barbados,17,1991
+7,Barbados,14,1992
+8,Barbados,16,1993
+9,Barbados,14,1994
+10,Barbados,17,1995
+11,Barbados,10,2000
+12,Barbados,2,2001
+13,Barbados,0,2002
+14,Barbados,0,2003
+15,Barbados,3,2004
+16,Barbados,1,2005
+17,Barbados,9,2006
+18,Barbados,0,2007
+19,Barbados,1,2008
+20,Barbados,5,2009
+21,Barbados,3,2010
+22,Barbados,0,2011
+23,Barbados,0,2012
+24,Barbados,0,2013
+0,Guyana,56,1988
+1,Guyana,94,1989
+2,Guyana,89,1990
+3,Guyana,105,1991
+4,Guyana,78,1992
+5,Guyana,72,1993
+6,Guyana,86,1994
+7,Guyana,99,1995
+8,Guyana,60,1996
+9,Guyana,40,1997
+10,Guyana,35,1998
+11,Guyana,163,1999
+12,Guyana,197,2001
+13,Guyana,176,2002
+14,Guyana,198,2003
+15,Guyana,186,2004
+16,Guyana,169,2005
+17,Guyana,201,2006
+18,Guyana,185,2007
+19,Guyana,168,2008
+20,Guyana,156,2009
+21,Guyana,205,2010
+22,Guyana,192,2011
+23,Guyana,206,2012
+24,Guyana,210,2013
+0,Armenia,93,1990
+1,Armenia,80,1991
+2,Armenia,83,1992
+3,Armenia,106,1993
+4,Armenia,112,1994
+5,Armenia,130,1995
+6,Armenia,87,1996
+7,Armenia,77,1997
+8,Armenia,66,1998
+9,Armenia,67,1999
+10,Armenia,61,2000
+11,Armenia,60,2001
+12,Armenia,74,2002
+13,Armenia,59,2003
+14,Armenia,78,2006
+15,Armenia,71,2007
+16,Armenia,63,2008
+17,Armenia,53,2009
+18,Armenia,73,2010
+19,Armenia,67,2011
+20,Armenia,79,2012
+21,Armenia,67,2013
+22,Armenia,58,2014
+23,Armenia,74,2015
+24,Armenia,67,2016
+0,Cuba,2299,1992
+1,Cuba,2374,1993
+2,Cuba,2278,1994
+3,Cuba,2222,1995
+4,Cuba,2014,1996
+5,Cuba,2029,1997
+6,Cuba,2056,1998
+7,Cuba,2050,1999
+8,Cuba,1845,2000
+9,Cuba,1652,2001
+10,Cuba,1606,2002
+11,Cuba,1499,2003
+12,Cuba,1515,2004
+13,Cuba,1397,2005
+14,Cuba,1376,2006
+15,Cuba,1307,2007
+16,Cuba,1377,2008
+17,Cuba,1477,2009
+18,Cuba,1558,2010
+19,Cuba,1529,2011
+20,Cuba,1495,2012
+21,Cuba,1499,2013
+22,Cuba,1453,2014
+23,Cuba,1511,2015
+0,El Salvador,571,1990
+1,El Salvador,474,1991
+2,El Salvador,419,1992
+3,El Salvador,424,1993
+4,El Salvador,620,1995
+5,El Salvador,540,1996
+6,El Salvador,577,1997
+7,El Salvador,512,1998
+8,El Salvador,515,1999
+9,El Salvador,461,2000
+10,El Salvador,514,2001
+11,El Salvador,436,2002
+12,El Salvador,527,2003
+13,El Salvador,464,2004
+14,El Salvador,455,2005
+15,El Salvador,411,2006
+16,El Salvador,501,2007
+17,El Salvador,490,2008
+18,El Salvador,506,2009
+19,El Salvador,399,2010
+20,El Salvador,485,2011
+21,El Salvador,512,2012
+22,El Salvador,484,2013
+23,El Salvador,386,2014
+0,Poland,4970,1990
+1,Poland,5316,1991
+2,Poland,5713,1992
+3,Poland,5624,1993
+4,Poland,5519,1994
+5,Poland,5499,1995
+6,Poland,5446,1996
+7,Poland,5779,1999
+8,Poland,5841,2000
+9,Poland,5855,2001
+10,Poland,5925,2002
+11,Poland,5836,2003
+12,Poland,6072,2004
+13,Poland,6045,2005
+14,Poland,5805,2006
+15,Poland,5284,2007
+16,Poland,5682,2008
+17,Poland,6477,2009
+18,Poland,6357,2010
+19,Poland,6113,2011
+20,Poland,6368,2012
+21,Poland,6218,2013
+22,Poland,5934,2014
+23,Poland,5420,2015
+0,Bahamas,1,1985
+1,Bahamas,3,1987
+2,Bahamas,7,1993
+3,Bahamas,3,1994
+4,Bahamas,2,1995
+5,Bahamas,3,1996
+6,Bahamas,2,1997
+7,Bahamas,3,1998
+8,Bahamas,6,1999
+9,Bahamas,11,2000
+10,Bahamas,1,2001
+11,Bahamas,3,2002
+12,Bahamas,1,2003
+13,Bahamas,2,2004
+14,Bahamas,4,2005
+15,Bahamas,2,2006
+16,Bahamas,5,2007
+17,Bahamas,4,2008
+18,Bahamas,6,2009
+19,Bahamas,10,2010
+20,Bahamas,4,2011
+21,Bahamas,5,2012
+22,Bahamas,5,2013
+0,Albania,73,1987
+1,Albania,63,1988
+2,Albania,68,1989
+3,Albania,47,1992
+4,Albania,73,1993
+5,Albania,50,1994
+6,Albania,88,1995
+7,Albania,89,1996
+8,Albania,170,1997
+9,Albania,154,1998
+10,Albania,139,1999
+11,Albania,54,2000
+12,Albania,119,2001
+13,Albania,133,2002
+14,Albania,124,2003
+15,Albania,146,2004
+16,Albania,0,2005
+17,Albania,0,2006
+18,Albania,124,2007
+19,Albania,160,2008
+20,Albania,0,2009
+21,Albania,96,2010
+0,Uzbekistan,1459,1990
+1,Uzbekistan,1393,1991
+2,Uzbekistan,1344,1992
+3,Uzbekistan,1355,1993
+4,Uzbekistan,1419,1994
+5,Uzbekistan,1485,1995
+6,Uzbekistan,1699,1996
+7,Uzbekistan,1554,1997
+8,Uzbekistan,1620,1998
+9,Uzbekistan,1795,1999
+10,Uzbekistan,1919,2000
+11,Uzbekistan,1914,2001
+12,Uzbekistan,1576,2002
+13,Uzbekistan,1416,2003
+14,Uzbekistan,1251,2004
+15,Uzbekistan,1221,2005
+16,Uzbekistan,1399,2009
+17,Uzbekistan,1464,2010
+18,Uzbekistan,1640,2011
+19,Uzbekistan,1835,2012
+20,Uzbekistan,1950,2013
+21,Uzbekistan,2095,2014
+0,Slovakia,796,1992
+1,Slovakia,738,1993
+2,Slovakia,691,1994
+3,Slovakia,735,1995
+4,Slovakia,672,1996
+5,Slovakia,630,1997
+6,Slovakia,673,1998
+7,Slovakia,692,1999
+8,Slovakia,729,2000
+9,Slovakia,692,2001
+10,Slovakia,717,2002
+11,Slovakia,753,2003
+12,Slovakia,676,2004
+13,Slovakia,679,2005
+14,Slovakia,0,2006
+15,Slovakia,0,2007
+16,Slovakia,591,2008
+17,Slovakia,601,2009
+18,Slovakia,631,2010
+19,Slovakia,571,2012
+20,Slovakia,616,2013
+21,Slovakia,554,2014
+0,Denmark,999,1994
+1,Denmark,924,1995
+2,Denmark,892,1996
+3,Denmark,817,1997
+4,Denmark,763,1998
+5,Denmark,762,1999
+6,Denmark,728,2000
+7,Denmark,727,2001
+8,Denmark,688,2002
+9,Denmark,633,2003
+10,Denmark,661,2004
+11,Denmark,631,2005
+12,Denmark,650,2006
+13,Denmark,581,2007
+14,Denmark,603,2008
+15,Denmark,622,2009
+16,Denmark,563,2010
+17,Denmark,589,2011
+18,Denmark,661,2012
+19,Denmark,610,2013
+20,Denmark,629,2014
+21,Denmark,564,2015
+0,Georgia,196,1990
+1,Georgia,174,1991
+2,Georgia,204,1992
+3,Georgia,123,1994
+4,Georgia,138,1995
+5,Georgia,162,1996
+6,Georgia,176,1997
+7,Georgia,148,1998
+8,Georgia,189,1999
+9,Georgia,130,2000
+10,Georgia,100,2001
+11,Georgia,175,2004
+12,Georgia,87,2005
+13,Georgia,72,2006
+14,Georgia,104,2007
+15,Georgia,188,2009
+16,Georgia,112,2010
+17,Georgia,99,2011
+18,Georgia,104,2012
+19,Georgia,157,2013
+20,Georgia,194,2014
+21,Georgia,192,2015
+0,Croatia,929,1995
+1,Croatia,1001,1996
+2,Croatia,946,1997
+3,Croatia,1029,1998
+4,Croatia,989,1999
+5,Croatia,926,2000
+6,Croatia,881,2001
+7,Croatia,874,2002
+8,Croatia,865,2003
+9,Croatia,871,2004
+10,Croatia,874,2005
+11,Croatia,796,2006
+12,Croatia,775,2007
+13,Croatia,793,2008
+14,Croatia,790,2009
+15,Croatia,776,2010
+16,Croatia,702,2011
+17,Croatia,776,2012
+18,Croatia,692,2013
+19,Croatia,722,2014
+20,Croatia,739,2015
+21,Croatia,683,2016
+0,Lithuania,1694,1995
+1,Lithuania,1722,1996
+2,Lithuania,1632,1997
+3,Lithuania,1553,1998
+4,Lithuania,1550,1999
+5,Lithuania,1631,2000
+6,Lithuania,1533,2001
+7,Lithuania,1551,2002
+8,Lithuania,1455,2003
+9,Lithuania,1380,2004
+10,Lithuania,1319,2005
+11,Lithuania,1049,2006
+12,Lithuania,1025,2007
+13,Lithuania,1111,2008
+14,Lithuania,1138,2009
+15,Lithuania,1018,2010
+16,Lithuania,1018,2011
+17,Lithuania,927,2012
+18,Lithuania,1085,2013
+19,Lithuania,930,2014
+20,Lithuania,896,2015
+21,Lithuania,822,2016
+0,Belarus,2085,1990
+1,Belarus,2169,1991
+2,Belarus,2424,1992
+3,Belarus,2885,1993
+4,Belarus,3153,1994
+5,Belarus,3203,1995
+6,Belarus,3627,1996
+7,Belarus,3526,1997
+8,Belarus,3556,1998
+9,Belarus,3397,1999
+10,Belarus,3483,2000
+11,Belarus,3303,2001
+12,Belarus,3291,2002
+13,Belarus,3456,2003
+14,Belarus,2659,2007
+15,Belarus,2658,2008
+16,Belarus,2743,2009
+17,Belarus,2459,2010
+18,Belarus,2172,2011
+19,Belarus,1902,2013
+20,Belarus,1741,2014
+0,Estonia,594,1995
+1,Estonia,545,1996
+2,Estonia,522,1997
+3,Estonia,477,1998
+4,Estonia,468,1999
+5,Estonia,377,2000
+6,Estonia,401,2001
+7,Estonia,371,2002
+8,Estonia,342,2003
+9,Estonia,323,2004
+10,Estonia,273,2005
+11,Estonia,247,2006
+12,Estonia,251,2007
+13,Estonia,242,2008
+14,Estonia,269,2009
+15,Estonia,223,2010
+16,Estonia,218,2011
+17,Estonia,237,2012
+18,Estonia,218,2013
+19,Estonia,241,2014
+20,Estonia,195,2015
+0,Bahrain,11,1985
+1,Bahrain,9,1987
+2,Bahrain,14,1988
+3,Bahrain,0,1997
+4,Bahrain,0,1998
+5,Bahrain,17,1999
+6,Bahrain,29,2000
+7,Bahrain,23,2001
+8,Bahrain,25,2002
+9,Bahrain,34,2003
+10,Bahrain,42,2004
+11,Bahrain,42,2005
+12,Bahrain,28,2006
+13,Bahrain,40,2007
+14,Bahrain,43,2008
+15,Bahrain,36,2009
+16,Bahrain,19,2010
+17,Bahrain,18,2011
+18,Bahrain,19,2012
+19,Bahrain,5,2013
+20,Bahrain,9,2014
+0,Latvia,1024,1995
+1,Latvia,922,1996
+2,Latvia,886,1997
+3,Latvia,839,1998
+4,Latvia,763,1999
+5,Latvia,770,2000
+6,Latvia,708,2001
+7,Latvia,670,2002
+8,Latvia,604,2003
+9,Latvia,563,2004
+10,Latvia,564,2005
+11,Latvia,487,2006
+12,Latvia,453,2007
+13,Latvia,527,2008
+14,Latvia,516,2009
+15,Latvia,438,2010
+16,Latvia,440,2011
+17,Latvia,444,2012
+18,Latvia,383,2013
+19,Latvia,382,2014
+20,Latvia,387,2015
+0,Switzerland,1419,1995
+1,Switzerland,1432,1996
+2,Switzerland,1341,1997
+3,Switzerland,1371,1998
+4,Switzerland,1296,1999
+5,Switzerland,1380,2000
+6,Switzerland,1338,2001
+7,Switzerland,1446,2002
+8,Switzerland,1269,2003
+9,Switzerland,1284,2004
+10,Switzerland,1299,2005
+11,Switzerland,1309,2006
+12,Switzerland,1360,2007
+13,Switzerland,1314,2008
+14,Switzerland,1105,2009
+15,Switzerland,1006,2010
+16,Switzerland,1034,2011
+17,Switzerland,1038,2012
+18,Switzerland,1071,2013
+19,Switzerland,1032,2014
+20,Switzerland,1073,2015
+0,Slovenia,564,1995
+1,Slovenia,607,1996
+2,Slovenia,593,1997
+3,Slovenia,612,1998
+4,Slovenia,590,1999
+5,Slovenia,588,2000
+6,Slovenia,581,2001
+7,Slovenia,540,2002
+8,Slovenia,562,2003
+9,Slovenia,512,2004
+10,Slovenia,503,2005
+11,Slovenia,529,2006
+12,Slovenia,434,2007
+13,Slovenia,408,2008
+14,Slovenia,447,2009
+15,Slovenia,414,2010
+16,Slovenia,435,2011
+17,Slovenia,440,2012
+18,Slovenia,446,2013
+19,Slovenia,388,2014
+20,Slovenia,422,2015
+0,South Africa,143,1996
+1,South Africa,104,1997
+2,South Africa,180,1998
+3,South Africa,279,1999
+4,South Africa,267,2000
+5,South Africa,384,2001
+6,South Africa,236,2002
+7,South Africa,256,2003
+8,South Africa,383,2004
+9,South Africa,458,2005
+10,South Africa,514,2006
+11,South Africa,417,2007
+12,South Africa,441,2008
+13,South Africa,372,2009
+14,South Africa,393,2010
+15,South Africa,358,2011
+16,South Africa,487,2012
+17,South Africa,587,2013
+18,South Africa,580,2014
+19,South Africa,482,2015
+0,Serbia,1460,1998
+1,Serbia,1571,1999
+2,Serbia,1543,2000
+3,Serbia,1442,2001
+4,Serbia,1446,2002
+5,Serbia,1378,2003
+6,Serbia,1345,2004
+7,Serbia,1437,2005
+8,Serbia,1443,2006
+9,Serbia,1353,2007
+10,Serbia,1289,2008
+11,Serbia,1373,2009
+12,Serbia,1207,2010
+13,Serbia,1256,2011
+14,Serbia,1243,2012
+15,Serbia,1197,2013
+16,Serbia,1134,2014
+17,Serbia,1062,2015
+0,Seychelles,8,1985
+1,Seychelles,1,1986
+2,Seychelles,3,1987
+3,Seychelles,6,2001
+4,Seychelles,5,2002
+5,Seychelles,8,2003
+6,Seychelles,6,2004
+7,Seychelles,5,2005
+8,Seychelles,8,2006
+9,Seychelles,6,2007
+10,Seychelles,4,2008
+11,Seychelles,4,2009
+12,Seychelles,6,2010
+13,Seychelles,5,2011
+14,Seychelles,3,2012
+15,Seychelles,9,2013
+16,Seychelles,4,2014
+17,Seychelles,7,2015
+0,Jamaica,8,1985
+1,Jamaica,1,1986
+2,Jamaica,13,1987
+3,Jamaica,5,1988
+4,Jamaica,0,1989
+5,Jamaica,3,1990
+6,Jamaica,1,1991
+7,Jamaica,3,2000
+8,Jamaica,5,2001
+9,Jamaica,2,2002
+10,Jamaica,2,2003
+11,Jamaica,1,2004
+12,Jamaica,51,2005
+13,Jamaica,0,2006
+14,Jamaica,36,2009
+15,Jamaica,3,2010
+16,Jamaica,50,2011
+0,Azerbaijan,114,1990
+1,Azerbaijan,134,1991
+2,Azerbaijan,144,1992
+3,Azerbaijan,119,1993
+4,Azerbaijan,47,1994
+5,Azerbaijan,49,1995
+6,Azerbaijan,69,1996
+7,Azerbaijan,107,1997
+8,Azerbaijan,56,1998
+9,Azerbaijan,54,1999
+10,Azerbaijan,62,2000
+11,Azerbaijan,317,2001
+12,Azerbaijan,92,2002
+13,Azerbaijan,129,2003
+14,Azerbaijan,108,2004
+15,Azerbaijan,55,2007
+0,Philippines,347,1992
+1,Philippines,846,1993
+2,Philippines,814,1997
+3,Philippines,883,1998
+4,Philippines,1043,1999
+5,Philippines,1403,2000
+6,Philippines,1204,2001
+7,Philippines,1301,2002
+8,Philippines,1544,2003
+9,Philippines,1788,2006
+10,Philippines,1698,2007
+11,Philippines,1820,2008
+12,Philippines,2074,2009
+13,Philippines,2116,2010
+14,Philippines,2449,2011
+0,Cyprus,1,1999
+1,Cyprus,7,2000
+2,Cyprus,7,2004
+3,Cyprus,17,2005
+4,Cyprus,19,2006
+5,Cyprus,19,2007
+6,Cyprus,41,2008
+7,Cyprus,32,2009
+8,Cyprus,38,2010
+9,Cyprus,30,2011
+10,Cyprus,36,2012
+11,Cyprus,45,2013
+12,Cyprus,44,2014
+13,Cyprus,40,2015
+14,Cyprus,36,2016
+0,Qatar,0,1995
+1,Qatar,23,2001
+2,Qatar,21,2004
+3,Qatar,17,2005
+4,Qatar,29,2006
+5,Qatar,41,2007
+6,Qatar,33,2008
+7,Qatar,44,2009
+8,Qatar,47,2010
+9,Qatar,50,2011
+10,Qatar,43,2012
+11,Qatar,37,2013
+12,Qatar,55,2014
+13,Qatar,66,2015
+14,Qatar,68,2016
+0,Sri Lanka,5668,1985
+1,Sri Lanka,5345,1986
+2,Sri Lanka,4898,1996
+3,Sri Lanka,5887,1997
+4,Sri Lanka,5518,1998
+5,Sri Lanka,5619,1999
+6,Sri Lanka,5252,2000
+7,Sri Lanka,4590,2001
+8,Sri Lanka,4382,2002
+9,Sri Lanka,4467,2003
+10,Sri Lanka,4015,2006
+0,Fiji,36,2001
+1,Fiji,42,2002
+2,Fiji,10,2003
+3,Fiji,24,2004
+4,Fiji,22,2005
+5,Fiji,24,2006
+6,Fiji,13,2007
+7,Fiji,37,2008
+8,Fiji,26,2009
+9,Fiji,38,2011
+10,Fiji,32,2012
+0,Montenegro,0,2000
+1,Montenegro,0,2001
+2,Montenegro,0,2002
+3,Montenegro,0,2003
+4,Montenegro,0,2004
+5,Montenegro,118,2005
+6,Montenegro,0,2006
+7,Montenegro,121,2007
+8,Montenegro,126,2008
+9,Montenegro,107,2009
+0,Maldives,0,2000
+1,Maldives,3,2001
+2,Maldives,3,2002
+3,Maldives,4,2003
+4,Maldives,1,2004
+5,Maldives,1,2005
+6,Maldives,5,2007
+7,Maldives,0,2008
+8,Maldives,1,2010
+9,Maldives,2,2011
+0,Turkey,1050,2009
+1,Turkey,1524,2010
+2,Turkey,1148,2011
+3,Turkey,1450,2012
+4,Turkey,1810,2013
+5,Turkey,1617,2014
+6,Turkey,1532,2015
+0,Nicaragua,351,2010
+1,Nicaragua,369,2011
+2,Nicaragua,316,2012
+3,Nicaragua,351,2013
+4,Nicaragua,311,2014
+5,Nicaragua,315,2015
+0,United Arab Emirates,96,2005
+1,United Arab Emirates,90,2006
+2,United Arab Emirates,101,2007
+3,United Arab Emirates,100,2008
+4,United Arab Emirates,124,2009
+5,United Arab Emirates,111,2010
+0,Oman,13,2009
+1,Oman,13,2010
+2,Oman,7,2014
+0,Bosnia and Herzegovina,5,2011
+1,Bosnia and Herzegovina,313,2014
