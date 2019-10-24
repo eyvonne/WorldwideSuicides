@@ -1,0 +1,39 @@
+{% extends 'home.html' %}
+
+{% block content %}
+<h2>Results</h2>
+
+<p>The Random Forest model was able to achieve a mean absolute error of 8.13
+  suicides per 100k people. This beats the mean baseline score of 13.09. Sex
+  is the best predictor of suicide, and men are more likely to kill themselves
+  than women. The Human Development Index is the second best suicide predictor,
+  followed by age, and annual GDP. These determinations were made using a
+  feature permutation model</p>
+
+  <h2>The HDI Sruprise</h2>
+<p>A somewhat surprising finding is that suicide was not negatively correlated
+  with an increasing HDI. It was originally assumed that as this measure of
+  wellbeing increased, that the likelihood of suicide would decline. However,
+  this is not the case. The HDI is a multivariate measure that accounts for
+  life expectancy, knowledge, and standard of living
+  (https://en.wikipedia.org/wiki/Human_Development_Index). The model suggests
+  that this measure, which is intended to capture the goodness of a human life,
+  does not always correspond to a person’s own happiness or desire to continue
+  their life. Further, the particular spike at .8, suggests that there may be a
+  threshold where economic and material conditions start to matter less in
+  terms of overall  life satisfaction. There may be certain stress levels
+  associated with this threshold, that is not experienced by people that fall
+  below or above it on the index. A higher HDI does not always indicate a
+  greater desire to live, even if a very high HDI does.
+
+One thing that the HDI does not include is a measure for gender identity or
+expression. Other studies
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178031/) have shown that gender,
+queering, and other identity issues have been associated with suicide. A future
+study might try to account for this factor among reported suicides.
+
+A future study might also consider substituting the income-adjusted HDI, which
+more accurately expresses economic inequality and is described in Wikipedia
+(https://en.wikipedia.org/wiki/List_of_countries_by_inequality-adjusted_HDI).
+</p>
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends 'home.html' %}
+{% block content %}
+<h2>Data Cleaning</h2>
+<p>The annual GDP was listed originally as a string with commas that needed to
+  be removed and formatted as ints. The original data frame also included a
+  column that had the year and country combined, which wasn’t useful for the
+  model so it was dropped. In addition to gender, this study made use of the
+  Human Development Index (HDI). The HDI was the only feature with missing
+  values. To impute these values a custom function was written that used the
+  average HDI for the country. Countries without an HDI were not included,
+  even if suicides were reported in those countries.
+
+It was originally planned to use the total number of suicides as the target
+vector but after building an initial model it was decided it would make more
+sense to predict the suicides/100k population. This normalization took the
+population from being the largest impact on the final prediction to being one
+of the smallest, focusing instead on the sex and HDI.</p>
+
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends "home.html" %}
+{% block content %}
+<h3>Modeling</h3>
+<p>
+Originally an XGBoost regressor was fit to the data, but it was found that the
+model would predict values of less than zero, which didn’t make sense for this
+dataset. By using a random forest the range on the output was limited to being
+similar to that of the input, meaning that the predictions never said that a
+country would experience a negative number of suicides. These two SHAP
+(SHapley Additive exPlanations) plots are made using the same data, just using
+the different models. The actual suicides per 100k for this data was 3.77.</p>
+<h4>XGB</h4>
+<img src="../Images/XGBShapPlot" alt="XGBoost SHAP plot">
+
+{% endblock %}
